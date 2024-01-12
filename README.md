@@ -1,4 +1,3 @@
-<div align="center">
 ### Skills
 Platform & Languages <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -8,7 +7,6 @@ Platform & Languages <br>
 Tools <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-</div>
 
 <!--
 **eccho03/eccho03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
