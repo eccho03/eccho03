@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=eccho03's%20github!&animation=blink&type=venom&stroke=ffffff&strokeWidth=1)
 ### Skills
-<h3>✨ Tech Stack ✨ <h3/>
+<h3 align="center">✨ Tech Stack ✨ <h3/>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
 
-<h3>🛠 Tools 🛠 </h3>
+<h3 align="center">🛠 Tools 🛠 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
