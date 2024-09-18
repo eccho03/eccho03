@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=eccho03's%20github!&animation=blinking&type=venom&stroke=ffffff&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?text=eccho03's%20github!&animation=blink&type=venom&stroke=ffffff&strokeWidth=3)
 ### Skills
 Platform & Languages <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
