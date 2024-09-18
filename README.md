@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?text=eccho03's%20github!&animation=blink&type=venom&stroke=ffffff&strokeWidth=1)
-### Skills
 <h3 align="center">✨ Tech Stack ✨ <h3/>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
