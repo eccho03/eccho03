@@ -13,13 +13,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eccho03&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eccho03&layout=compact&theme=radical)
-<div align="center">
   
-  
-</div>
-<!--
+  <!--
 **eccho03/eccho03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
