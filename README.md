@@ -4,18 +4,14 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
 
 <h3 align="center">🛠 Tools 🛠 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eccho03&show_icons=true&theme=radical)
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eccho03&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eccho03&layout=compact&theme=radical)
   
   <!--
 **eccho03/eccho03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
